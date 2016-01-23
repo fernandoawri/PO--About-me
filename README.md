@@ -1,4 +1,16 @@
-## Project 0 for Project Nautilus ##
+P0 -- About me
+===============================
+## How to load About me
+Inside About me repository there are 1 folders css, images & js also you will find an index.html and README.md. to lunch the About me repository you need to open index.html in one browser.
+* /css/
+* /images/
+* /index.html <-- You need to open this file in any browser.
+* /README.md
+
+### By the end:
+My page looks something like this
+
+![My Resume](https://github.com/fernandoawri/PO--About-me/blob/master/images/readme.JPG)
 
 ###Instructions:
 
